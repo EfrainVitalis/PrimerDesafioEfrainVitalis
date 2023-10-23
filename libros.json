@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "titulo": "hola2",
+    "descripcion": "prueba2",
+    "precio": "588",
+    "thumbnail": "sin imagen",
+    "codigo": "12345",
+    "stock": "13"
+  },
+  {
+    "id": 3,
+    "titulo": "agregado",
+    "descripcion": "prueba agrego",
+    "precio": "0",
+    "thumbnail": "sin imagen",
+    "codigo": "0",
+    "stock": "0"
+  }
+]
